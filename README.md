@@ -1,6 +1,12 @@
 # Final-Project
 Introduction to Cybersecurity
 
+Author: Dawson Alexander
+
+This project is on the basic of cybersecurity and ways someone can protect themselves from hackers. These a big problems facing the world today as we become more and more dependent on technology. People need to know how to safely use technology from others who are using it for malicious purposes. It gives some basics like password protection, being wary of suspicious links and secure Wifi networks to name a few.
+
+The target audience for this presentation would be everyday working people in an office setting or really anyone who uses a computer and phone often. There is more and more attacks happening on everyday people who don't even realize what they're doing when they're clicking on a link in an email or not having a strong password. People need to be more informed and more aware of what's cyber security protection is and how they can apply it. 
+
 Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. It is crictcial in today's  world to ensure that our data is safe from malicious activity, that could affect our personal and professional lives.
 
 Some basic cybersecurity practices include:
